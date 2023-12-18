@@ -16,8 +16,9 @@ Make sure you have the following dependencies installed:
 
 You can install them using the following command:
 
-## Bash
+```bash 
 pip install requests pandas plotly plotly-express
+```
 
 ## Usage
 Run the script CensusData.py to fetch and process pet ownership data and median income data.
